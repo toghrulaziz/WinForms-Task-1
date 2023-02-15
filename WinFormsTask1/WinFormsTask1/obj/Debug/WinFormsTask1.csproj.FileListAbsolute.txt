@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\WinForms Task 1\WinFormsTask1\WinFormsTask1\bin\Debug\WinFormsTask1.exe.config
+C:\Users\User\Desktop\WinForms Task 1\WinFormsTask1\WinFormsTask1\bin\Debug\WinFormsTask1.exe
+C:\Users\User\Desktop\WinForms Task 1\WinFormsTask1\WinFormsTask1\bin\Debug\WinFormsTask1.pdb
+C:\Users\User\Desktop\WinForms Task 1\WinFormsTask1\WinFormsTask1\obj\Debug\WinFormsTask1.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\WinForms Task 1\WinFormsTask1\WinFormsTask1\obj\Debug\WinFormsTask1.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\WinForms Task 1\WinFormsTask1\WinFormsTask1\obj\Debug\WinFormsTask1.Form1.resources
+C:\Users\User\Desktop\WinForms Task 1\WinFormsTask1\WinFormsTask1\obj\Debug\WinFormsTask1.Properties.Resources.resources
+C:\Users\User\Desktop\WinForms Task 1\WinFormsTask1\WinFormsTask1\obj\Debug\WinFormsTask1.csproj.GenerateResource.cache
+C:\Users\User\Desktop\WinForms Task 1\WinFormsTask1\WinFormsTask1\obj\Debug\WinFormsTask1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\WinForms Task 1\WinFormsTask1\WinFormsTask1\obj\Debug\WinFormsTask1.exe
+C:\Users\User\Desktop\WinForms Task 1\WinFormsTask1\WinFormsTask1\obj\Debug\WinFormsTask1.pdb
